@@ -2,7 +2,13 @@
 
 🇺🇸 English below | 🇧🇷 Português abaixo
 
-## 🇺🇸 Overview
+## Overview
+## Tech Stack
+
+- Python
+- CLI Application
+- JSON Data Storage
+  
 A simple CLI tool to simulate monthly and yearly operational costs for industrial contracts.
 
 It helps estimate:
@@ -12,7 +18,7 @@ It helps estimate:
 - Total monthly and yearly cost
 - Cost per employee
 
-## 🇺🇸 How to run
+## How to run
 ### Requirements
 - Python 3.10+
 
